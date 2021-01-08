@@ -32,6 +32,7 @@ Starts a session in the my-dev-env chroot
 
 ### Stop a chroot session
 From inside the session run `logout`
+
 From outside the session run `stopjail.sh my-dev-env`
 
 This will
